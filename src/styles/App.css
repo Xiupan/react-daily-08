@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.active {
+  color: pink;
+  text-shadow: 1px solid black;
+  text-transform: uppercase;
+}
